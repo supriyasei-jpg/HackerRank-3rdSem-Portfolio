@@ -28,11 +28,26 @@ https://www.hackerrank.com/profile/supriyasei
 
 The following screenshots provide proof of successful HackerRank submissions. All five mandatory problems were solved and submitted successfully.
 
-1.Diagonal Difference – Accepted
-2.Dynamic Array – Accepted
-3.Time Conversion – Accepted
-4.Compare the Triplets – Accepted
-5.Sparse Arrays – AcceptedT
+### 1. Diagonal Difference
+
+![Diagonal Difference](Screenshot%202026-11-25%20235623.png)
+
+### 2. Dynamic Array
+
+![Dynamic Array](Screenshot%202026-11-26%20000019.png)
+
+### 3. Time Conversion
+
+![Time Conversion](Screenshot%202026-11-26%20000411.png)
+
+### 4. Compare the Triplets
+
+![Compare the Triplets](Screenshot%202026-11-26%20000906.png)
+
+
+### 5. Sparse Arrays
+
+![Sparse Arrays](Screenshot%202026-11-26%20001122.png)
 
 
 ## Language
