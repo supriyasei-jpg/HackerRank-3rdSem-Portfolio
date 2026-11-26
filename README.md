@@ -6,7 +6,7 @@ This repository contains my solutions to five mandatory HackerRank algorithmic p
 ## HackerRank Profile
 https://www.hackerrank.com/profile/supriyasei
 
-## Problems Solved
+## Time & Space Complexity Analysis
 
 | No. | Problem | Time Complexity | Space Complexity |
 |---|---|---|---|
@@ -48,6 +48,14 @@ The following screenshots provide proof of successful HackerRank submissions. Al
 ### 5. Sparse Arrays
 
 ![Sparse Arrays](Screenshot%202026-11-26%20001122.png)
+
+
+## HackerRank Profile Screenshot:
+![HackerRank Profile](Screenshot%202026-11-26%20095805.png)
+
+## HackerRank 3-Star Badge Proof
+
+![Problem Solving 3 Star Badge](Screenshot%202026-11-26%20095606.png)
 
 
 ## Language
